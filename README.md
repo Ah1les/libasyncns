@@ -1,0 +1,4 @@
+libasyncns
+==========
+
+http://0pointer.de/lennart/projects/libasyncns/
